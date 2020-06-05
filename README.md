@@ -1,5 +1,5 @@
 # Shopping-Mart
-E-commerce website Example
+Static E-commerce website Example
 
 Demo website - https://akashsingh310.github.io/Shopping-Mart/
 
