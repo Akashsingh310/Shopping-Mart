@@ -1,6 +1,8 @@
 # Shopping-Mart
 E-commerce website Example
 
+Demo website - https://akashsingh310.github.io/Shopping-Mart/
+
 First you install `npm install` and then Run by using ` npm run devStart` in your local host `http://localhost:3000/login`
 
 Then you register yourself by click on `create an shopping mart account ` on login section and
